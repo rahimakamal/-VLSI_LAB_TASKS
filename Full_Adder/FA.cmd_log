@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/ise/New_folder/FULL_ADDER/FA.xst" -ofn "/home/ise/New_folder/FULL_ADDER/FA.syr" 
+xst -intstyle ise -ifn "/home/ise/New_folder/Full_Adder/FA.xst" -ofn "/home/ise/New_folder/Full_Adder/FA.syr" 
