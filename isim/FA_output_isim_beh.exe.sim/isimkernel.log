@@ -1,0 +1,10 @@
+Command line:
+   FA_output_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  44151
+
+Tue Sep 29 19:38:06 2026
+
+
+ Elaboration Time: 0.06 sec
