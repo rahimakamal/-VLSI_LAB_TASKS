@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/New_folder/Register_8bit/register_8bit_v.xst" -ofn "/home/ise/New_folder/Register_8bit/register_8bit_v.syr" 

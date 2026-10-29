@@ -1,0 +1,5 @@
+verilog work "d_flip_flop_v.v"
+verilog work "register_1bit_v.v"
+verilog work "register_8bit_v.v"
+verilog work "register_8bit_v_tb.v"
+verilog work "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"
