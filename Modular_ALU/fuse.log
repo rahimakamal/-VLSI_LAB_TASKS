@@ -1,0 +1,37 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o /home/ise/New_folder/Modular_ALU/tb_alu_top_isim_beh.exe -prj /home/ise/New_folder/Modular_ALU/tb_alu_top_beh.prj work.tb_alu_top work.glbl 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 1
+Turning on mult-threading, number of parallel sub-compilation jobs: 0 
+Determining compilation order of HDL files
+Analyzing Verilog file "/home/ise/New_folder/Modular_ALU/full_adder.v" into library work
+Analyzing Verilog file "/home/ise/New_folder/Modular_ALU/adder_4bit.v" into library work
+Analyzing Verilog file "/home/ise/New_folder/Modular_ALU/xor_4bit.v" into library work
+Analyzing Verilog file "/home/ise/New_folder/Modular_ALU/subtractor_4bit.v" into library work
+Analyzing Verilog file "/home/ise/New_folder/Modular_ALU/or_4bit.v" into library work
+Analyzing Verilog file "/home/ise/New_folder/Modular_ALU/not_4bit.v" into library work
+Analyzing Verilog file "/home/ise/New_folder/Modular_ALU/mux8to1_4bit.v" into library work
+Analyzing Verilog file "/home/ise/New_folder/Modular_ALU/and_4bit.v" into library work
+Analyzing Verilog file "/home/ise/New_folder/Modular_ALU/alu_top.v" into library work
+Analyzing Verilog file "/home/ise/New_folder/Modular_ALU/tb_alu_top.v" into library work
+Analyzing Verilog file "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 95192 KB
+Fuse CPU Usage: 900 ms
+Compiling module full_adder
+Compiling module adder_4bit
+Compiling module subtractor_4bit
+Compiling module and_4bit
+Compiling module or_4bit
+Compiling module xor_4bit
+Compiling module not_4bit
+Compiling module mux8to1_4bit
+Compiling module alu_top
+Compiling module tb_alu_top
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Compiled 11 Verilog Units
+Built simulation executable /home/ise/New_folder/Modular_ALU/tb_alu_top_isim_beh.exe
+Fuse Memory Usage: 98096 KB
+Fuse CPU Usage: 960 ms
+GCC CPU Usage: 440 ms

@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/New_folder/Modular_ALU/alu_top.xst" -ofn "/home/ise/New_folder/Modular_ALU/alu_top.syr" 
